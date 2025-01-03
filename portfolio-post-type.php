@@ -1,11 +1,9 @@
 <?php
 /**
  * Plugin Name: Odinaka Portfolio Post types
- * Plugin URI:
  * Description: This plugin creates Portfolio custom post type.
  * Version: 1.0
  * Author: Uchechukwu Peter
- * Author URI:
  */
 
 if (!defined('ABSPATH')) {
